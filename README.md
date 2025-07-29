@@ -1,5 +1,5 @@
 
-# animatedPortfolio
+# Animated-Portfolio
 This is a modern, fully responsive animated portfolio website developed using HTML, CSS, and JavaScript, with optional integration of React and GSAP. The project features smooth animations, an interactive user interface, and a clean, professional design. It is optimized for performance and accessibility across all device sizes.
 
 
